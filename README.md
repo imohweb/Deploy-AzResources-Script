@@ -20,4 +20,4 @@ The script is constantly updated to keep users abreast with the updtaed version 
 3. Run the **az login** command to sign into your account on Azure
 4. Run the **az** command to confirm that you have successfully Installed the CLI 
 5. Run the **az version**  command to check the Azure CLI Version you have just installed
-
+6. To create Resources directly on a particular subscription if you have many subscriptions on your account, <br> run the **az account set --subscription "my subscription name"** command. 
