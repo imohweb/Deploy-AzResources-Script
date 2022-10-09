@@ -1,4 +1,5 @@
 # Deploy Resources to Azure Using Script
+<img src="https://github.com/imohweb/Deploy-AzResources-Script/blob/master/src/azure-cli.jpg"></img>
 This repository gives you a single script named **deploy-resources-to-azure-script**. When you run this script on your terminal it deploys resources such as:
 
 1. Azure Resource Group,
