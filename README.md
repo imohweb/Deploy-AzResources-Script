@@ -17,6 +17,7 @@ The script is constantly updated to keep users abreast with the updtaed version 
 ## Prerequisite for Using this Script
 1. You must have an active Subscription on Azure. If you do not have one, sign up <a href="https://azure.microsoft.com/en-us/free/" target="_blank">here</a> for the free trial account. 
 2. Download the Azure CLI 2.40 MSI installer <a href="https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?view=azure-cli-latest&tabs=azure-cli" target="_blank">here</a> and run it on your Local PC.
-3. Run the az login to authenticate to your account on Azure
-4. Run az to confirm that you have successfully Installed the CLI 
-5. Run az version to check the Azure CLI Version you have just installed
+3. Run the **az login** command to sign into your account on Azure
+4. Run the **az** command to confirm that you have successfully Installed the CLI 
+5. Run the **az version**  command to check the Azure CLI Version you have just installed
+
