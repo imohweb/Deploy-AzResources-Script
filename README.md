@@ -1,5 +1,5 @@
 # Deploy Resources to Azure Using Script
-<img src="https://github.com/imohweb/Deploy-AzResources-Script/blob/master/src/azure-cli.jpg" alt="Azure CLI Logo" width="500" height="500" align="center"></img>
+<img src="https://github.com/imohweb/Deploy-AzResources-Script/blob/master/src/azure-cli.jpg" alt="Azure CLI Logo" width="300" height="300" align="center"></img><br>
 This repository gives you a single script named **deploy-resources-to-azure-script.sh**. When you run the script on your terminal it automates the deployment of the following resources to Azure:
 1.  Azure Resource Group,
 2.  Azure Virtual Machines, 
