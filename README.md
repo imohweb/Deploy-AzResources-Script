@@ -23,4 +23,4 @@ The script is constantly updated to keep users abreast with the updtaed version 
 <img src="https://github.com/imohweb/Deploy-AzResources-Script/blob/master/src/azure-cli1.png"></img>
 5. Run the **az version** command to check the Azure CLI Version you have just installed
 <img src="https://github.com/imohweb/Deploy-AzResources-Script/blob/master/src/Azure%20CLI%20Version.png">
-6. To create Resources directly on a particular subscription if you have many subscriptions on your account, <br> run the **az account set --subscription "my subscription name"** command. 
+6. To create Resources directly on a particular subscription if you have many subscriptions on your Azure account, <br> run the **az account set --subscription $MySubscription** command. 
