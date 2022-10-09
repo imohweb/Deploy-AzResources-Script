@@ -6,7 +6,7 @@ This repository gives you a single script named <a href="https://github.com/imoh
 3.  Azure Storage Account,
 4.  Azure Storage Containers
 5.  Enable static website hosting on the Azure Storage account
-6.  Upload website content to the storage Container from local PC
+6.  Upload website content to the storage Container from the local PC
 7.  Create an App Service Plan
 8.  Deploy Web App
 9.  Deploy an app from GitHub to Azure App Service
