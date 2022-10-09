@@ -12,7 +12,7 @@ This repository gives you a single script named <a href="https://github.com/imoh
 9.  Deploy an app from GitHub to Azure App Service
 10.  and many more
 
-The script is constantly updated to keep users abreast with the updtaed version of Azure CLI commands. 
+The script is constantly updated to keep users abreast with the updated version of Azure CLI commands. 
 
 ## Prerequisites for Using this Script
 1. You must have an active Subscription on Azure. If you do not have one, sign up <a href="https://azure.microsoft.com/en-us/free/" target="_blank">here</a> for the free trial account. 
